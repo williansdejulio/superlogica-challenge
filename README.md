@@ -1,5 +1,9 @@
 # Superlógica Challenge
 Simple To-Do List App made with React Native, integrated with Firebase (Realtime Database and Facebook/E-mail Authentication).
+* **Stack:** React Native
+* **Typing tool:** TypeScript
+* **State management:** None
+* **Unit tests:** None
 
 ## Setup
 Clone the project
